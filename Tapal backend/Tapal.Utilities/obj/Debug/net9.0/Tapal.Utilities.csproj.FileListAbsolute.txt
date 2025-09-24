@@ -1,0 +1,20 @@
+D:\Tapal.Utilities\obj\Debug\net9.0\Tapal.Utilities.csproj.AssemblyReference.cache
+D:\Tapal.Utilities\obj\Debug\net9.0\Tapal.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tapal.Utilities\obj\Debug\net9.0\Tapal.Utilities.AssemblyInfoInputs.cache
+D:\Tapal.Utilities\obj\Debug\net9.0\Tapal.Utilities.AssemblyInfo.cs
+D:\Tapal.Utilities\obj\Debug\net9.0\Tapal.Utilities.csproj.CoreCompileInputs.cache
+D:\Tapal backend\Tapal.Utilities\bin\Debug\net9.0\Tapal.Utilities.deps.json
+D:\Tapal backend\Tapal.Utilities\bin\Debug\net9.0\Tapal.Utilities.dll
+D:\Tapal backend\Tapal.Utilities\bin\Debug\net9.0\Tapal.Utilities.pdb
+D:\Tapal backend\Tapal.Utilities\bin\Debug\net9.0\Tapal.Data.Models.dll
+D:\Tapal backend\Tapal.Utilities\bin\Debug\net9.0\Tapal.Data.Models.pdb
+D:\Tapal backend\Tapal.Utilities\obj\Debug\net9.0\Tapal.Utilities.csproj.AssemblyReference.cache
+D:\Tapal backend\Tapal.Utilities\obj\Debug\net9.0\Tapal.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tapal backend\Tapal.Utilities\obj\Debug\net9.0\Tapal.Utilities.AssemblyInfoInputs.cache
+D:\Tapal backend\Tapal.Utilities\obj\Debug\net9.0\Tapal.Utilities.AssemblyInfo.cs
+D:\Tapal backend\Tapal.Utilities\obj\Debug\net9.0\Tapal.Utilities.csproj.CoreCompileInputs.cache
+D:\Tapal backend\Tapal.Utilities\obj\Debug\net9.0\Tapal.Ut.DA32CA85.Up2Date
+D:\Tapal backend\Tapal.Utilities\obj\Debug\net9.0\Tapal.Utilities.dll
+D:\Tapal backend\Tapal.Utilities\obj\Debug\net9.0\refint\Tapal.Utilities.dll
+D:\Tapal backend\Tapal.Utilities\obj\Debug\net9.0\Tapal.Utilities.pdb
+D:\Tapal backend\Tapal.Utilities\obj\Debug\net9.0\ref\Tapal.Utilities.dll

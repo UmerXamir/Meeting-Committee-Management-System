@@ -1,0 +1,34 @@
+D:\Tapal-Services\bin\Debug\net9.0\Tapal.Services.deps.json
+D:\Tapal-Services\bin\Debug\net9.0\Tapal.Services.dll
+D:\Tapal-Services\bin\Debug\net9.0\Tapal.Services.pdb
+D:\Tapal-Services\obj\Debug\net9.0\Tapal.Services.csproj.AssemblyReference.cache
+D:\Tapal-Services\obj\Debug\net9.0\Tapal.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tapal-Services\obj\Debug\net9.0\Tapal.Services.AssemblyInfoInputs.cache
+D:\Tapal-Services\obj\Debug\net9.0\Tapal.Services.AssemblyInfo.cs
+D:\Tapal-Services\obj\Debug\net9.0\Tapal.Services.csproj.CoreCompileInputs.cache
+D:\Tapal-Services\obj\Debug\net9.0\Tapal.Services.dll
+D:\Tapal-Services\obj\Debug\net9.0\refint\Tapal.Services.dll
+D:\Tapal-Services\obj\Debug\net9.0\Tapal.Services.pdb
+D:\Tapal-Services\obj\Debug\net9.0\ref\Tapal.Services.dll
+D:\Tapal-Services\bin\Debug\net9.0\Tapal.Data.Models.dll
+D:\Tapal-Services\bin\Debug\net9.0\Tapal.Data.Models.pdb
+D:\Tapal-Services\obj\Debug\net9.0\Tapal.Se.1FFDA2BE.Up2Date
+D:\Tapal-Services\bin\Debug\net9.0\Tapal.Data.Repositories.dll
+D:\Tapal-Services\bin\Debug\net9.0\Tapal.Data.Repositories.pdb
+D:\Tapal backend\Tapal-Services\bin\Debug\net9.0\Tapal.Services.deps.json
+D:\Tapal backend\Tapal-Services\bin\Debug\net9.0\Tapal.Services.dll
+D:\Tapal backend\Tapal-Services\bin\Debug\net9.0\Tapal.Services.pdb
+D:\Tapal backend\Tapal-Services\bin\Debug\net9.0\Tapal.Data.Models.dll
+D:\Tapal backend\Tapal-Services\bin\Debug\net9.0\Tapal.Data.Repositories.dll
+D:\Tapal backend\Tapal-Services\bin\Debug\net9.0\Tapal.Data.Models.pdb
+D:\Tapal backend\Tapal-Services\bin\Debug\net9.0\Tapal.Data.Repositories.pdb
+D:\Tapal backend\Tapal-Services\obj\Debug\net9.0\Tapal.Services.csproj.AssemblyReference.cache
+D:\Tapal backend\Tapal-Services\obj\Debug\net9.0\Tapal.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tapal backend\Tapal-Services\obj\Debug\net9.0\Tapal.Services.AssemblyInfoInputs.cache
+D:\Tapal backend\Tapal-Services\obj\Debug\net9.0\Tapal.Services.AssemblyInfo.cs
+D:\Tapal backend\Tapal-Services\obj\Debug\net9.0\Tapal.Services.csproj.CoreCompileInputs.cache
+D:\Tapal backend\Tapal-Services\obj\Debug\net9.0\Tapal.Se.1FFDA2BE.Up2Date
+D:\Tapal backend\Tapal-Services\obj\Debug\net9.0\Tapal.Services.dll
+D:\Tapal backend\Tapal-Services\obj\Debug\net9.0\refint\Tapal.Services.dll
+D:\Tapal backend\Tapal-Services\obj\Debug\net9.0\Tapal.Services.pdb
+D:\Tapal backend\Tapal-Services\obj\Debug\net9.0\ref\Tapal.Services.dll

@@ -1,0 +1,30 @@
+D:\Tapal-Repositories\bin\Debug\net9.0\Tapal.Data.Repositories.deps.json
+D:\Tapal-Repositories\bin\Debug\net9.0\Tapal.Data.Repositories.dll
+D:\Tapal-Repositories\bin\Debug\net9.0\Tapal.Data.Repositories.pdb
+D:\Tapal-Repositories\bin\Debug\net9.0\Tapal.Data.Models.dll
+D:\Tapal-Repositories\bin\Debug\net9.0\Tapal.Data.Models.pdb
+D:\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.csproj.AssemblyReference.cache
+D:\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.AssemblyInfoInputs.cache
+D:\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.AssemblyInfo.cs
+D:\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.csproj.CoreCompileInputs.cache
+D:\Tapal-Repositories\obj\Debug\net9.0\Tapal.Da.8C2D9CAF.Up2Date
+D:\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.dll
+D:\Tapal-Repositories\obj\Debug\net9.0\refint\Tapal.Data.Repositories.dll
+D:\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.pdb
+D:\Tapal-Repositories\obj\Debug\net9.0\ref\Tapal.Data.Repositories.dll
+D:\Tapal backend\Tapal-Repositories\bin\Debug\net9.0\Tapal.Data.Repositories.deps.json
+D:\Tapal backend\Tapal-Repositories\bin\Debug\net9.0\Tapal.Data.Repositories.dll
+D:\Tapal backend\Tapal-Repositories\bin\Debug\net9.0\Tapal.Data.Repositories.pdb
+D:\Tapal backend\Tapal-Repositories\bin\Debug\net9.0\Tapal.Data.Models.dll
+D:\Tapal backend\Tapal-Repositories\bin\Debug\net9.0\Tapal.Data.Models.pdb
+D:\Tapal backend\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.csproj.AssemblyReference.cache
+D:\Tapal backend\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tapal backend\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.AssemblyInfoInputs.cache
+D:\Tapal backend\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.AssemblyInfo.cs
+D:\Tapal backend\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.csproj.CoreCompileInputs.cache
+D:\Tapal backend\Tapal-Repositories\obj\Debug\net9.0\Tapal.Da.8C2D9CAF.Up2Date
+D:\Tapal backend\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.dll
+D:\Tapal backend\Tapal-Repositories\obj\Debug\net9.0\refint\Tapal.Data.Repositories.dll
+D:\Tapal backend\Tapal-Repositories\obj\Debug\net9.0\Tapal.Data.Repositories.pdb
+D:\Tapal backend\Tapal-Repositories\obj\Debug\net9.0\ref\Tapal.Data.Repositories.dll

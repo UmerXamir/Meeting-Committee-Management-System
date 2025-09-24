@@ -1,0 +1,24 @@
+D:\Tapal-models\bin\Debug\net9.0\Tapal.Data.Models.deps.json
+D:\Tapal-models\bin\Debug\net9.0\Tapal.Data.Models.dll
+D:\Tapal-models\bin\Debug\net9.0\Tapal.Data.Models.pdb
+D:\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.csproj.AssemblyReference.cache
+D:\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.AssemblyInfoInputs.cache
+D:\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.AssemblyInfo.cs
+D:\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.csproj.CoreCompileInputs.cache
+D:\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.dll
+D:\Tapal-models\obj\Debug\net9.0\refint\Tapal.Data.Models.dll
+D:\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.pdb
+D:\Tapal-models\obj\Debug\net9.0\ref\Tapal.Data.Models.dll
+D:\Tapal backend\Tapal-models\bin\Debug\net9.0\Tapal.Data.Models.deps.json
+D:\Tapal backend\Tapal-models\bin\Debug\net9.0\Tapal.Data.Models.dll
+D:\Tapal backend\Tapal-models\bin\Debug\net9.0\Tapal.Data.Models.pdb
+D:\Tapal backend\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.csproj.AssemblyReference.cache
+D:\Tapal backend\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tapal backend\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.AssemblyInfoInputs.cache
+D:\Tapal backend\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.AssemblyInfo.cs
+D:\Tapal backend\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.csproj.CoreCompileInputs.cache
+D:\Tapal backend\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.dll
+D:\Tapal backend\Tapal-models\obj\Debug\net9.0\refint\Tapal.Data.Models.dll
+D:\Tapal backend\Tapal-models\obj\Debug\net9.0\Tapal.Data.Models.pdb
+D:\Tapal backend\Tapal-models\obj\Debug\net9.0\ref\Tapal.Data.Models.dll
